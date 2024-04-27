@@ -44,12 +44,13 @@ The application has the following features:
 
 ## Screenshots
 
+### User Login Page
 ![Screenshot of the User Login Page](screenshots/login.png)
-
+### Administrator Dashboard
 ![Screenshot of the Administrator Login Page](screenshots/admin.jpg)
-
+### Candidate Application Form
 ![Screenshot of the Candidate Application Form](screenshots/candidate-form.png)
-
+### Voter Dashboard
 ![Screenshot of the Voter Login Page](screenshots/voter-page.png)
 
 ## Conclusion
