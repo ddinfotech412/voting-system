@@ -1,4 +1,4 @@
- # [FCRIT Voting System](https://fcritonlinevoting.000webhostapp.com/login.php)
+ # [FCRIT Voting System](https://semp2324.000webhostapp.com/)
 
 This is a PHP-based online voting system for FCRIT. It allows candidates to register and voters to cast their votes. The system also provides a dashboard for administrators to manage the voting process.
 
@@ -48,12 +48,15 @@ The application has the following features:
 ![Screenshot of the User Login Page](screenshots/login.png)
 ### Administrator Dashboard
 ![Screenshot of the Administrator Login Page](screenshots/admin.jpg)
+![Screenshot of the Administrator Login Page](screenshots/admin-pg1.png)
+![Screenshot of the Administrator Login Page](screenshots/admin-pg2.png)
+![Screenshot of the Administrator Login Page](screenshots/admin-pg3.png)
 ### Candidate Application Form
+![Screenshot of the Candidate Login](screenshots/candidate.png)
 ![Screenshot of the Candidate Application Form](screenshots/candidate-form.png)
 ### Voter Dashboard
 ![Screenshot of the Voter Login Page](screenshots/voter-page.png)
-
-##
+![Screenshot of the Voter Login Page](screenshots/voter.png)
 
 ## Conclusion
 
