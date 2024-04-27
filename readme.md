@@ -42,13 +42,13 @@ The application has the following features:
 
 ## Screenshots
 
-![Screenshot of the candidate registration page](screenshots/candidate-registration.png)
+![Screenshot of the User Login Page](screenshots/login.png)
 
-![Screenshot of the voter registration page](screenshots/voter-registration.png)
+![Screenshot of the Administrator Login Page](screenshots/admin.png)
 
-![Screenshot of the voting page](screenshots/voting.png)
+![Screenshot of the Candidate Application Form](screenshots/candidate-form.png)
 
-![Screenshot of the dashboard](screenshots/dashboard.png)
+![Screenshot of the Voter Login Page](screenshots/voter-page.png)
 
 ## Conclusion
 
