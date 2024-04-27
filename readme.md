@@ -2,6 +2,8 @@
 
 This is a PHP-based online voting system for FCRIT. It allows candidates to register and voters to cast their votes. The system also provides a dashboard for administrators to manage the voting process.
 
+![Block Diagram of the system](screenshots/block-diagram.png)
+
 ## Prerequisites
 
 To run this application, you will need the following:
@@ -44,7 +46,7 @@ The application has the following features:
 
 ![Screenshot of the User Login Page](screenshots/login.png)
 
-![Screenshot of the Administrator Login Page](screenshots/admin.png)
+![Screenshot of the Administrator Login Page](screenshots/admin.jpg)
 
 ![Screenshot of the Candidate Application Form](screenshots/candidate-form.png)
 
