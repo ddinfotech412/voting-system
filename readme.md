@@ -53,6 +53,8 @@ The application has the following features:
 ### Voter Dashboard
 ![Screenshot of the Voter Login Page](screenshots/voter-page.png)
 
+##
+
 ## Conclusion
 
 This is a simple and easy-to-use online voting system that can be used for various purposes. It is secure, reliable, and scalable.
