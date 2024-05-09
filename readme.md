@@ -1,4 +1,4 @@
- # [FCRIT Voting System](https://semp2324.000webhostapp.com/)
+# [FCRIT Voting System](https://semp2324.000webhostapp.com/)
 
 This is a PHP-based online voting system for FCRIT. It allows candidates to register and voters to cast their votes. The system also provides a dashboard for administrators to manage the voting process.
 
@@ -60,8 +60,8 @@ The application has the following features:
 
 ## Documents
 
-### [Project Report](docs/MINI-PROJECT REPORT FINAL.pdf)
-### [Technical Paper](docs/Technical Paper.pdf)
+### [Project Report](docs/MINI-PROJECT%20REPORT%20FINAL.pdf)
+### [Technical Paper](docs/Technical%20Paper.pdf)
 
 ## Publication Details
 ### Paper ID: IJRPR-79553
