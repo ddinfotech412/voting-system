@@ -58,6 +58,19 @@ The application has the following features:
 ![Screenshot of the Voter Login Page](screenshots/voter-page.png)
 ![Screenshot of the Voter Login Page](screenshots/voter.png)
 
+## Documents
+
+### [Project Report](docs/MINI-PROJECT REPORT FINAL.pdf)
+### [Technical Paper](docs/Technical Paper.pdf)
+
+## Publication Details
+### Paper ID: IJRPR-79553
+### Paper Title: "FCRIT's Online Voting System"
+### [Published Article](https://ijrpr.com/uploads/V5ISSUE5/IJRPR27141.pdf)
+
+### Certificate of Publication:
+![Certificate](Sojith%20Sunny%20Certificate.jpg)
+
 ## Conclusion
 
 This is a simple and easy-to-use online voting system that can be used for various purposes. It is secure, reliable, and scalable.
