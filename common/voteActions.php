@@ -40,7 +40,25 @@ if (isset($_POST['declareResults'])) {
     $stmt = mysqli_prepare($conn, $declareResults);
     mysqli_stmt_bind_param($stmt, 's', $_SESSION['id']);
     $result = mysqli_stmt_execute($stmt);
-    $_SESSION['successMessage']="The ELection Results have been declared.";
+    $_SESSION['successMessage']="The Election Results have been declared.";
+    header("Location:../admin/admin.php");
+    exit();
+}
+?>
+
+<!-- Restarting Elections -->
+<?php
+if (isset($_POST['newElection'])) {
+    // Delete candidates
+    $deleteCandidates = "DELETE FROM candidates";
+    $resultCandidates = mysqli_query($conn, $deleteCandidates);
+    // Delete campaigns
+    $deleteCampaigns = "DELETE FROM campaign";
+    $resultCampaigns = mysqli_query($conn, $deleteCampaigns);
+    // Delete Votes
+    $resetVoteStatus = "UPDATE login SET voteStatus=0";
+    $resultReset = mysqli_query($conn, $resetVoteStatus);
+    $_SESSION['successMessage']="The Election will be restarted.";
     header("Location:../admin/admin.php");
     exit();
 }

@@ -86,7 +86,7 @@
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <h1 class="modal-title fs-5" id="declareResultsLabel">Confirm Election Stop</h1>
+                            <h1 class="modal-title fs-5" id="declareResultsLabel">Confirm Declare Results</h1>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
@@ -104,7 +104,30 @@
             }
         // See Voting Results
         else if($admin['voteStatus']==3){
-            
+    ?>
+        <form action="../common/voteActions.php" method="post" class="w-100 text-center my-5">
+            <button type="button" class="btn btn-info" data-bs-toggle="modal" data-bs-target="#newElection">Start New Election</button>
+
+            <!-- Declare Voting Results Modal -->
+            <div class="modal fade" id="newElection" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="newElectionLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h1 class="modal-title fs-5" id="newElectionLabel">New Election Confirm</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            All the previous election data will be deleted and set up for new elections.
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                            <button type="submit" class="btn btn-info" name="newElection">Start New Election</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    <?php
             $query = "SELECT post, id, name, voteCount, pfp FROM candidates
                       WHERE (post, voteCount) IN (
                           SELECT post, MAX(voteCount) AS max_votes FROM candidates
