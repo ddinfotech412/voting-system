@@ -42,12 +42,30 @@ if (isset($_POST['submit'])) {
             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
 
             $stmt = mysqli_prepare($conn, $query);
+            if (!$stmt) {
+                ErrorLogger::logDatabaseError($query, mysqli_error($conn), [
+                    'user_id' => $id,
+                    'action' => 'submit_application'
+                ]);
+                $_SESSION['errorMessage'] = "Database error occurred while submitting application.";
+                header("Location:../users/newNominee.php");
+                exit();
+            }
             mysqli_stmt_bind_param($stmt, "ssssssssssssi", $id, $name, $pfp_upload, $dept, $post, $reason, $cgpa, $achieve, $club, $cert_upload, $detail, $status, $attempts);
 
             if (mysqli_stmt_execute($stmt)) {
+                ErrorLogger::logError("Application submitted successfully", [
+                    'user_id' => $id,
+                    'name' => $name,
+                    'post' => $post
+                ]);
                 $_SESSION['successMessage']="Application submitted Successfully!";
                 header("Location:../users/nominee.php");
             } else {
+                ErrorLogger::logDatabaseError($query, mysqli_stmt_error($stmt), [
+                    'user_id' => $id,
+                    'action' => 'submit_application'
+                ]);
                 echo "Error: " . mysqli_stmt_error($stmt);
             }
 

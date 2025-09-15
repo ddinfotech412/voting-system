@@ -1,5 +1,5 @@
 <?php
-require '../common/connect.php';
+require '../../common/connect.php';
 
 session_start();
 
@@ -8,24 +8,8 @@ if ($_SESSION['id'] != 'admin') {
     exit();
 }
 
-require '../common/links.php';
-include '../common/navbar.php';
-
-// Get the page parameter to determine which content to load
-$page = isset($_GET['page']) ? $_GET['page'] : 'dashboard';
-$pageTitle = ucfirst($page);
-
-// Define valid pages
-$validPages = ['dashboard', 'electionStatus', 'candidates', 'applications', 'voteHistory', 'analytics', 'userManagement', 'errorLogs', 'settings'];
-
-// If page is not valid, default to dashboard
-if (!in_array($page, $validPages)) {
-    $page = 'dashboard';
-    $pageTitle = 'Dashboard';
-}
-
-// Set page title
-$pageTitle = $pageTitle . ' - Admin Panel';
+require '../../common/links.php';
+include '../../common/navbar.php';
 ?>
 
 <!doctype html>
@@ -33,9 +17,10 @@ $pageTitle = $pageTitle . ' - Admin Panel';
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><?= $pageTitle ?> - FCRIT Voting System</title>
+    <title><?= $pageTitle ?? 'Admin Panel' ?> - FCRIT Voting System</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         * {
             margin: 0;
@@ -271,58 +256,35 @@ $pageTitle = $pageTitle . ' - Admin Panel';
                 </div>
                 
                 <div class="list-group list-group-flush" id="list-tab" role="tablist">
-                    <a class="sidebar-item <?= $page == 'dashboard' ? 'active' : '' ?>" href="admin.php?page=dashboard">
+                    <a class="sidebar-item <?= basename($_SERVER['PHP_SELF']) == 'dashboard.php' ? 'active' : '' ?>" href="dashboard.php">
                         <i class="fas fa-home me-3"></i>Dashboard
                     </a>
-                    <a class="sidebar-item <?= $page == 'electionStatus' ? 'active' : '' ?>" href="admin.php?page=electionStatus">
+                    <a class="sidebar-item <?= basename($_SERVER['PHP_SELF']) == 'electionStatus.php' ? 'active' : '' ?>" href="electionStatus.php">
                         <i class="fas fa-vote-yea me-3"></i>Election Status
                     </a>
-                    <a class="sidebar-item <?= $page == 'candidates' ? 'active' : '' ?>" href="admin.php?page=candidates">
+                    <a class="sidebar-item <?= basename($_SERVER['PHP_SELF']) == 'candidates.php' ? 'active' : '' ?>" href="candidates.php">
                         <i class="fas fa-users me-3"></i>Candidate Details
                     </a>
-                    <a class="sidebar-item <?= $page == 'applications' ? 'active' : '' ?>" href="admin.php?page=applications">
+                    <a class="sidebar-item <?= basename($_SERVER['PHP_SELF']) == 'applications.php' ? 'active' : '' ?>" href="applications.php">
                         <i class="fas fa-file-alt me-3"></i>Nominee Applications
                     </a>
-                    <a class="sidebar-item <?= $page == 'voteHistory' ? 'active' : '' ?>" href="admin.php?page=voteHistory">
+                    <a class="sidebar-item <?= basename($_SERVER['PHP_SELF']) == 'voteHistory.php' ? 'active' : '' ?>" href="voteHistory.php">
                         <i class="fas fa-history me-3"></i>Vote History
                     </a>
-                    <a class="sidebar-item <?= $page == 'analytics' ? 'active' : '' ?>" href="admin.php?page=analytics">
+                    <a class="sidebar-item <?= basename($_SERVER['PHP_SELF']) == 'analytics.php' ? 'active' : '' ?>" href="analytics.php">
                         <i class="fas fa-chart-bar me-3"></i>Analytics
                     </a>
-                    <a class="sidebar-item <?= $page == 'userManagement' ? 'active' : '' ?>" href="admin.php?page=userManagement">
+                    <a class="sidebar-item <?= basename($_SERVER['PHP_SELF']) == 'userManagement.php' ? 'active' : '' ?>" href="userManagement.php">
                         <i class="fas fa-user-cog me-3"></i>User Management
                     </a>
-                    <a class="sidebar-item <?= $page == 'errorLogs' ? 'active' : '' ?>" href="admin.php?page=errorLogs">
+                    <a class="sidebar-item <?= basename($_SERVER['PHP_SELF']) == 'errorLogs.php' ? 'active' : '' ?>" href="errorLogs.php">
                         <i class="fas fa-exclamation-triangle me-3"></i>Error Logs
-                    </a>
-                    <a class="sidebar-item <?= $page == 'settings' ? 'active' : '' ?>" href="admin.php?page=settings">
-                        <i class="fas fa-cog me-3"></i>Settings
                     </a>
                 </div>
             </div>
         </div>
         
         <div class="main-content">
-            <?php include '../common/message.php'; ?>
+            <?php include '../../common/message.php'; ?>
             
             <div class="content-wrapper">
-                <?php
-                // Include the appropriate content file based on the page parameter
-                $contentFile = "content/{$page}.php";
-                if (file_exists($contentFile)) {
-                    include $contentFile;
-                } else {
-                    echo "<div class='text-center py-5'>
-                            <i class='fas fa-exclamation-triangle text-warning fa-3x mb-3'></i>
-                            <h4>Page Not Found</h4>
-                            <p class='text-muted'>The requested page could not be found.</p>
-                          </div>";
-                }
-                ?>
-            </div>
-        </div>
-    </div>
-    
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-  </body>
-</html>

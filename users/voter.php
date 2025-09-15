@@ -7,6 +7,7 @@ require '../common/links.php';
 
 if(isset($_SESSION['id']))
 {
+  // Check if user has already voted
   $checkVoteStatus = "SELECT voteStatus FROM `login` WHERE id=?";
   $run = mysqli_prepare($conn, $checkVoteStatus);
   mysqli_stmt_bind_param($run, 's', $_SESSION['id']);
@@ -15,7 +16,14 @@ if(isset($_SESSION['id']))
   mysqli_stmt_fetch($run);
   mysqli_stmt_close($run);
   
-  if($voteStatus == 0)
+  // Check admin's election status
+  $checkElectionStatus = "SELECT voteStatus FROM `login` WHERE id='admin'";
+  $electionResult = mysqli_query($conn, $checkElectionStatus);
+  $electionData = mysqli_fetch_assoc($electionResult);
+  $electionStatus = $electionData['voteStatus'];
+  
+  // Allow voting only if user hasn't voted AND election is in progress (status = 1)
+  if($voteStatus == 0 && $electionStatus == 1)
   {
   
     include '../common/navbar.php';
@@ -236,8 +244,21 @@ if(isset($_SESSION['id']))
 <?php
   }
   else{
-    header("Location:../users/successVote.php");
-    exit();
+    // User has already voted or election is not in progress
+    if($voteStatus == 1) {
+      // User has already voted
+      header("Location:../users/successVote.php");
+      exit();
+    } else if($electionStatus != 1) {
+      // Election is not in progress
+      $_SESSION['errorMessage'] = "Voting is not currently active. Please check back later.";
+      header("Location:../users/user.php");
+      exit();
+    } else {
+      // Fallback
+      header("Location:../users/user.php");
+      exit();
+    }
   }
 }
 else{
