@@ -2,103 +2,54 @@
 session_start();
 require 'common/connect.php';
 require 'common/links.php';
-include 'common/navbar.php';
+
+// Set page title
+$page_title = 'Documentation - FCRIT Voting System';
+
+// Simple markdown parser function
+function parseMarkdown($text) {
+    // Headers
+    $text = preg_replace('/^### (.*$)/m', '<h3 class="fw-bold mt-4 mb-3">$1</h3>', $text);
+    $text = preg_replace('/^## (.*$)/m', '<h2 class="fw-bold mt-5 mb-4 text-primary">$1</h2>', $text);
+    $text = preg_replace('/^# (.*$)/m', '<h1 class="fw-bold mb-4 text-primary">$1</h1>', $text);
+    
+    // Bold text
+    $text = preg_replace('/\*\*(.*?)\*\*/', '<strong>$1</strong>', $text);
+    
+    // Italic text
+    $text = preg_replace('/\*(.*?)\*/', '<em>$1</em>', $text);
+    
+    // Code blocks
+    $text = preg_replace('/```(.*?)```/s', '<pre class="bg-light p-3 rounded"><code>$1</code></pre>', $text);
+    
+    // Inline code
+    $text = preg_replace('/`(.*?)`/', '<code class="bg-light px-2 py-1 rounded">$1</code>', $text);
+    
+    // Lists
+    $text = preg_replace('/^\- (.*$)/m', '<li class="mb-2">$1</li>', $text);
+    $text = preg_replace('/^(\d+)\. (.*$)/m', '<li class="mb-2">$2</li>', $text);
+    
+    // Wrap lists in ul/ol tags
+    $text = preg_replace('/(<li class="mb-2">.*<\/li>)/s', '<ul class="list-unstyled">$1</ul>', $text);
+    
+    // Links
+    $text = preg_replace('/\[([^\]]+)\]\(([^)]+)\)/', '<a href="$2" class="text-primary" target="_blank">$1</a>', $text);
+    
+    // Horizontal rules
+    $text = preg_replace('/^---$/m', '<hr class="my-4">', $text);
+    
+    // Paragraphs
+    $text = preg_replace('/^(?!<[h|u|p|d|h])(.*)$/m', '<p class="mb-3">$1</p>', $text);
+    
+    return $text;
+}
+
+// Read the markdown file
+$markdown_content = file_get_contents('docs/FCRIT_Voting_System_Documentation.md');
+$html_content = parseMarkdown($markdown_content);
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Documentation - FCRIT Voting System</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
-    <style>
-        .hero-section {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 120px 0 80px 0;
-            text-align: center;
-        }
-        .document-card {
-            transition: transform 0.3s ease;
-            border: none;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        .document-card:hover {
-            transform: translateY(-5px);
-        }
-        .navbar-custom {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-        }
-        .navbar-brand {
-            font-weight: 700;
-            color: #667eea !important;
-        }
-        .nav-link {
-            color: #333 !important;
-            font-weight: 500;
-            transition: color 0.3s ease;
-        }
-        .nav-link:hover {
-            color: #ff6b6b !important;
-        }
-    </style>
-</head>
-<body>
-    <!-- Navigation Bar -->
-    <nav class="navbar navbar-expand-lg navbar-light navbar-custom fixed-top">
-        <div class="container">
-            <a class="navbar-brand" href="landing.php">
-                <i class="fas fa-vote-yea me-2"></i>FCRIT Voting System
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="landing.php">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.php">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contact.php">Contact</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="help.php">Help</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="documentation.php">Documentation</a>
-                    </li>
-                    <?php if (isset($_SESSION['id'])): ?>
-                        <?php if ($_SESSION['id'] == 'admin'): ?>
-                            <li class="nav-item">
-                                <a class="nav-link" href="admin/admin.php">Admin Panel</a>
-                            </li>
-                        <?php else: ?>
-                            <li class="nav-item">
-                                <a class="nav-link" href="users/user.php">Dashboard</a>
-                            </li>
-                        <?php endif; ?>
-                        <li class="nav-item">
-                            <a class="nav-link" href="common/logout.php">Logout</a>
-                        </li>
-                    <?php else: ?>
-                        <li class="nav-item">
-                            <a class="nav-link" href="login.php">Login</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="register.php">Register</a>
-                        </li>
-                    <?php endif; ?>
-                </ul>
-            </div>
-        </div>
-    </nav>
+<?php include 'common/header.php'; ?>
 
     <!-- Hero Section -->
     <section class="hero-section">
@@ -112,49 +63,61 @@ include 'common/navbar.php';
         </div>
     </section>
 
-    <!-- Documentation Section -->
+    <!-- Documentation Content -->
     <section class="py-5">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center mb-5">
-                    <h2 class="fw-bold">Available Documents</h2>
-                    <p class="text-muted">Download and review our comprehensive documentation</p>
+                <div class="col-lg-10 mx-auto">
+                    <div class="card">
+                        <div class="card-body p-5">
+                            <div class="documentation-content">
+                                <?php echo $html_content; ?>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-4 mb-4">
-                    <div class="card document-card h-100">
-                        <div class="card-body text-center p-4">
-                            <i class="fas fa-file-pdf fa-3x text-danger mb-3"></i>
-                            <h5 class="card-title">System Requirements Specification</h5>
-                            <p class="card-text">Complete SRS document detailing system requirements, features, and specifications.</p>
-                            <a href="docs/SRS_FCRIT_Voting_System.pdf" class="btn btn-primary" target="_blank">
-                                <i class="fas fa-download me-2"></i>Download SRS
-                            </a>
+            
+            <!-- Additional Documentation Links -->
+            <div class="row mt-5">
+                <div class="col-lg-12">
+                    <h3 class="fw-bold text-center mb-4">Additional Resources</h3>
+                    <div class="row">
+                        <div class="col-lg-4 mb-3">
+                            <div class="card feature-card h-100">
+                                <div class="card-body text-center p-3">
+                                    <i class="fas fa-file-pdf fa-2x text-danger mb-2"></i>
+                                    <h6 class="card-title">System Requirements Specification</h6>
+                                    <p class="card-text small">Original SRS document</p>
+                                    <a href="docs/SRS_FCRIT_Voting_System.pdf" class="btn btn-outline-danger btn-sm" target="_blank">
+                                        <i class="fas fa-download me-1"></i>Download PDF
+                                    </a>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 mb-4">
-                    <div class="card document-card h-100">
-                        <div class="card-body text-center p-4">
-                            <i class="fas fa-file-pdf fa-3x text-warning mb-3"></i>
-                            <h5 class="card-title">Technical Paper</h5>
-                            <p class="card-text">Technical documentation covering implementation details and system architecture.</p>
-                            <a href="docs/Technical Paper.pdf" class="btn btn-primary" target="_blank">
-                                <i class="fas fa-download me-2"></i>Download Technical Paper
-                            </a>
+                        <div class="col-lg-4 mb-3">
+                            <div class="card feature-card h-100">
+                                <div class="card-body text-center p-3">
+                                    <i class="fas fa-file-pdf fa-2x text-warning mb-2"></i>
+                                    <h6 class="card-title">Technical Paper</h6>
+                                    <p class="card-text small">Original technical paper</p>
+                                    <a href="docs/Technical Paper.pdf" class="btn btn-outline-warning btn-sm" target="_blank">
+                                        <i class="fas fa-download me-1"></i>Download PDF
+                                    </a>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 mb-4">
-                    <div class="card document-card h-100">
-                        <div class="card-body text-center p-4">
-                            <i class="fas fa-file-pdf fa-3x text-info mb-3"></i>
-                            <h5 class="card-title">Project Report</h5>
-                            <p class="card-text">Complete project report with analysis, design, and implementation details.</p>
-                            <a href="docs/MINI-PROJECT REPORT FINAL.pdf" class="btn btn-primary" target="_blank">
-                                <i class="fas fa-download me-2"></i>Download Report
-                            </a>
+                        <div class="col-lg-4 mb-3">
+                            <div class="card feature-card h-100">
+                                <div class="card-body text-center p-3">
+                                    <i class="fas fa-file-pdf fa-2x text-info mb-2"></i>
+                                    <h6 class="card-title">Project Report</h6>
+                                    <p class="card-text small">Complete project report</p>
+                                    <a href="docs/MINI-PROJECT REPORT FINAL.pdf" class="btn btn-outline-info btn-sm" target="_blank">
+                                        <i class="fas fa-download me-1"></i>Download PDF
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
