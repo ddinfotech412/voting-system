@@ -27,7 +27,7 @@ if (isset($_GET['action']) && isset($_GET['name'])) {
     }
     
     // Redirect to prevent resubmission
-    header("Location: admin.php?page=applications");
+    header("Location: ../admin.php?page=applications");
     exit();
 }
 ?>

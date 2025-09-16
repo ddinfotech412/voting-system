@@ -3917,3 +3917,2643 @@ Context: {
 Request URI: /voting-system/admin/admin.php
 User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 --------------------------------------------------------------------------------
+[2025-09-16 06:17:56] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/common/postLogin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:17:56] [AUTH] [::1] Admin login successful
+Context: {
+    "user_id": "admin",
+    "ip_address": "::1"
+}
+Request URI: /voting-system/common/postLogin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:17:56] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:17:56] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:17:56] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:18:23] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/common/postLogin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:18:23] [AUTH] [::1] Admin login successful
+Context: {
+    "user_id": "admin",
+    "ip_address": "::1"
+}
+Request URI: /voting-system/common/postLogin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:18:23] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:18:23] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:18:23] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:18:44] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/common/postLogin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:18:44] [AUTH] [::1] User login successful
+Context: {
+    "user_id": "user012",
+    "ip_address": "::1"
+}
+Request URI: /voting-system/common/postLogin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:18:44] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/user.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:18:44] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/user.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:18:44] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/user.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:18:54] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=userManagement
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:18:55] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=userManagement
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:18:55] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=userManagement
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:18:58] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/common/userAction.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:19:04] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/common/userAction.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:01] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/common/userAction.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:01] [WARNING] [::1] userAction.php:8 - Undefined array key "userid"
+Request URI: /voting-system/common/userAction.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:01] [WARNING] [::1] userAction.php:9 - Undefined array key "username"
+Request URI: /voting-system/common/userAction.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:01] [WARNING] [::1] userAction.php:11 - Undefined array key "department"
+Request URI: /voting-system/common/userAction.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:01] [WARNING] [::1] userAction.php:12 - Undefined array key "year"
+Request URI: /voting-system/common/userAction.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:04] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=userManagement
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:04] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=userManagement
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:04] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=userManagement
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=errorLogs
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=errorLogs
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=errorLogs
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:36] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:36] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:36] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:36] [WARNING] [::1] analytics.php:2 - include_once(../../common/connect.php): Failed to open stream: No such file or directory
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:36] [WARNING] [::1] analytics.php:2 - include_once(): Failed opening '../../common/connect.php' for inclusion (include_path='.;C:\php\pear')
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:36] [WARNING] [::1] analytics.php:3 - include_once(../../common/errorLogger.php): Failed to open stream: No such file or directory
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:36] [WARNING] [::1] analytics.php:3 - include_once(): Failed opening '../../common/errorLogger.php' for inclusion (include_path='.;C:\php\pear')
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:39] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:39] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:39] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:39] [WARNING] [::1] analytics.php:2 - include_once(../../common/connect.php): Failed to open stream: No such file or directory
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:39] [WARNING] [::1] analytics.php:2 - include_once(): Failed opening '../../common/connect.php' for inclusion (include_path='.;C:\php\pear')
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:39] [WARNING] [::1] analytics.php:3 - include_once(../../common/errorLogger.php): Failed to open stream: No such file or directory
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:20:39] [WARNING] [::1] analytics.php:3 - include_once(): Failed opening '../../common/errorLogger.php' for inclusion (include_path='.;C:\php\pear')
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:21:12] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:21:12] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:21:12] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:21:12] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:21:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:21:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:21:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:21:27] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/viewApplicant.php?name=Jennifer%20Martinez
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:21:27] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/viewApplicant.php?name=Jennifer%20Martinez
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:21:27] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/viewApplicant.php?name=Jennifer%20Martinez
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:21:38] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/nominee.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:21:38] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/nominee.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:21:38] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/nominee.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:21:39] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/newNominee.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:22:40] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/common/formActions.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:22:47] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/common/formActions.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:22:48] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/newNominee.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:05] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/common/formActions.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:06] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/newNominee.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:15] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/common/formActions.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:15] [CUSTOM] [::1] Application submitted successfully
+Context: {
+    "user_id": "user012",
+    "name": "Jessica White",
+    "post": "default"
+}
+Request URI: /voting-system/common/formActions.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:15] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/nominee.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:15] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/nominee.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:15] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/nominee.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:16] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/viewNominee.php?name=Jessica%20White
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:21] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:21] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:21] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:21] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:22] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:22] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:22] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:22] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:22] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:22] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:22] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:22] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:22] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:22] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:22] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:22] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:22] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:22] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:22] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:22] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:23] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:23] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:23] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:24] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:25] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:25] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:25] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:27] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:27] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:27] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:30] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?action=accept&name=Jessica%20White
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:30] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?action=accept&name=Jessica%20White
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:30] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?action=accept&name=Jessica%20White
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:33] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:33] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:33] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:37] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?action=reject&name=Jessica%20White
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:37] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?action=reject&name=Jessica%20White
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:37] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?action=reject&name=Jessica%20White
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:39] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:39] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:23:39] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:23] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:23] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:23] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:34] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/common/postLogin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:34] [AUTH] [::1] User login successful
+Context: {
+    "user_id": "user012",
+    "ip_address": "::1"
+}
+Request URI: /voting-system/common/postLogin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:35] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/user.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:35] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/user.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:35] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/user.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:39] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:39] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:39] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:39] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:39] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:39] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:40] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:40] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:40] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:40] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:40] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:40] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:40] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:40] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:40] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:40] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:44] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/common/voteActions.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:44] [CUSTOM] [::1] Election started by admin
+Context: {
+    "admin_id": "admin"
+}
+Request URI: /voting-system/common/voteActions.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:44] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:44] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:44] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:47] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/user.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:47] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/user.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:47] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/user.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:48] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/voter.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:48] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/voter.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:54] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/common/voteActions.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:54] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/successVote.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:54] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/users/successVote.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:56] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:56] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:56] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:57] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:57] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:57] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:58] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:58] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:58] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:58] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:58] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:58] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:58] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:58] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:58] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:59] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:59] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:59] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:59] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:59] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:59] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:59] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:59] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:59] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:59] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:59] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:59] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:59] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:59] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:59] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:24:59] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:00] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:00] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:00] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:00] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:00] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:00] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:00] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:00] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:00] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:00] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:00] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:00] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:00] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:00] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:00] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:00] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:01] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:01] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:01] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:01] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:01] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:01] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:01] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:01] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:05] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:05] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:05] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:05] [WARNING] [::1] analytics.php:2 - include_once(../../common/connect.php): Failed to open stream: No such file or directory
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:05] [WARNING] [::1] analytics.php:2 - include_once(): Failed opening '../../common/connect.php' for inclusion (include_path='.;C:\php\pear')
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:05] [WARNING] [::1] analytics.php:3 - include_once(../../common/errorLogger.php): Failed to open stream: No such file or directory
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:05] [WARNING] [::1] analytics.php:3 - include_once(): Failed opening '../../common/errorLogger.php' for inclusion (include_path='.;C:\php\pear')
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:06] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:06] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:06] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:06] [WARNING] [::1] analytics.php:2 - include_once(../../common/connect.php): Failed to open stream: No such file or directory
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:06] [WARNING] [::1] analytics.php:2 - include_once(): Failed opening '../../common/connect.php' for inclusion (include_path='.;C:\php\pear')
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:06] [WARNING] [::1] analytics.php:3 - include_once(../../common/errorLogger.php): Failed to open stream: No such file or directory
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:06] [WARNING] [::1] analytics.php:3 - include_once(): Failed opening '../../common/errorLogger.php' for inclusion (include_path='.;C:\php\pear')
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [WARNING] [::1] analytics.php:2 - include_once(../../common/connect.php): Failed to open stream: No such file or directory
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [WARNING] [::1] analytics.php:2 - include_once(): Failed opening '../../common/connect.php' for inclusion (include_path='.;C:\php\pear')
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [WARNING] [::1] analytics.php:3 - include_once(../../common/errorLogger.php): Failed to open stream: No such file or directory
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [WARNING] [::1] analytics.php:3 - include_once(): Failed opening '../../common/errorLogger.php' for inclusion (include_path='.;C:\php\pear')
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [WARNING] [::1] analytics.php:2 - include_once(../../common/connect.php): Failed to open stream: No such file or directory
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [WARNING] [::1] analytics.php:2 - include_once(): Failed opening '../../common/connect.php' for inclusion (include_path='.;C:\php\pear')
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [WARNING] [::1] analytics.php:3 - include_once(../../common/errorLogger.php): Failed to open stream: No such file or directory
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [WARNING] [::1] analytics.php:3 - include_once(): Failed opening '../../common/errorLogger.php' for inclusion (include_path='.;C:\php\pear')
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:07] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:08] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:08] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:08] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:08] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:08] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:09] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:09] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:09] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:09] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:09] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:09] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:09] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:09] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:09] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:09] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:09] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:09] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:09] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:09] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:09] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:09] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:10] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:12] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:12] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:12] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:12] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:13] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:13] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:13] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:13] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:48] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:48] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:48] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:49] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:49] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:49] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:49] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=electionStatus
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:49] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=candidates
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:49] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=candidates
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:49] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=candidates
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:50] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:50] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:50] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:50] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:51] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:51] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:51] [EXCEPTION] [::1] voteHistory.php:121 - mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given
+Stack Trace:
+#0 D:\OFFICE\TpotsProject\www\voting-system\admin\content\voteHistory.php(121): mysqli_num_rows(false)
+#1 D:\OFFICE\TpotsProject\www\voting-system\admin\admin.php(313): include('D:\\OFFICE\\Tpots...')
+#2 {main}
+Request URI: /voting-system/admin/admin.php?page=voteHistory
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:51] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:51] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:51] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:51] [WARNING] [::1] analytics.php:2 - include_once(../../common/connect.php): Failed to open stream: No such file or directory
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:51] [WARNING] [::1] analytics.php:2 - include_once(): Failed opening '../../common/connect.php' for inclusion (include_path='.;C:\php\pear')
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:51] [WARNING] [::1] analytics.php:3 - include_once(../../common/errorLogger.php): Failed to open stream: No such file or directory
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:51] [WARNING] [::1] analytics.php:3 - include_once(): Failed opening '../../common/errorLogger.php' for inclusion (include_path='.;C:\php\pear')
+Request URI: /voting-system/admin/admin.php?page=analytics
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:51] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=userManagement
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:52] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=userManagement
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:52] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=userManagement
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:52] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=errorLogs
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:52] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=errorLogs
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:52] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=errorLogs
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:52] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=settings
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:52] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=settings
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:52] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=settings
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:52] [WARNING] [::1] settings.php:2 - include_once(../../common/connect.php): Failed to open stream: No such file or directory
+Request URI: /voting-system/admin/admin.php?page=settings
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:52] [WARNING] [::1] settings.php:2 - include_once(): Failed opening '../../common/connect.php' for inclusion (include_path='.;C:\php\pear')
+Request URI: /voting-system/admin/admin.php?page=settings
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:52] [WARNING] [::1] settings.php:3 - include_once(../../common/errorLogger.php): Failed to open stream: No such file or directory
+Request URI: /voting-system/admin/admin.php?page=settings
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:52] [WARNING] [::1] settings.php:3 - include_once(): Failed opening '../../common/errorLogger.php' for inclusion (include_path='.;C:\php\pear')
+Request URI: /voting-system/admin/admin.php?page=settings
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:58] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/viewApplicant.php?name=Jessica%20White
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:58] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/viewApplicant.php?name=Jessica%20White
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:25:58] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/viewApplicant.php?name=Jessica%20White
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:26:08] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/viewApplicant.php?name=Jessica%20White
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:26:08] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:26:08] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:26:08] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=applications
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:26:14] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/viewApplicant.php?name=Jennifer%20Martinez
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:26:14] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/viewApplicant.php?name=Jennifer%20Martinez
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:26:14] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/viewApplicant.php?name=Jennifer%20Martinez
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:26:20] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:26:20] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-09-16 06:26:20] [CUSTOM] [::1] Database connection established successfully
+Context: {
+    "host": "localhost",
+    "database": "voting_system"
+}
+Request URI: /voting-system/admin/admin.php?page=dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------

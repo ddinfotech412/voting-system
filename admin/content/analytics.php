@@ -89,14 +89,31 @@ foreach ($positionData as $position => $candidates) {
                 <?php
                 $statusText = '';
                 $statusClass = '';
+                $statusBgClass = '';
                 switch($admin['voteStatus']) {
-                    case 0: $statusText = 'Not Started'; $statusClass = 'text-secondary'; break;
-                    case 1: $statusText = 'In Progress'; $statusClass = 'text-success'; break;
-                    case 2: $statusText = 'Ended'; $statusClass = 'text-warning'; break;
-                    case 3: $statusText = 'Results Declared'; $statusClass = 'text-info'; break;
+                    case 0: 
+                        $statusText = 'Not Started'; 
+                        $statusClass = 'text-white'; 
+                        $statusBgClass = 'bg-secondary';
+                        break;
+                    case 1: 
+                        $statusText = 'In Progress'; 
+                        $statusClass = 'text-white'; 
+                        $statusBgClass = 'bg-success';
+                        break;
+                    case 2: 
+                        $statusText = 'Ended'; 
+                        $statusClass = 'text-dark'; 
+                        $statusBgClass = 'bg-warning';
+                        break;
+                    case 3: 
+                        $statusText = 'Results Declared'; 
+                        $statusClass = 'text-white'; 
+                        $statusBgClass = 'bg-info';
+                        break;
                 }
                 ?>
-                <span class="<?= $statusClass ?>"><?= $statusText ?></span>
+                <span class="badge <?= $statusBgClass ?> <?= $statusClass ?> fs-6 px-3 py-2"><?= $statusText ?></span>
             </span>
         </div>
     </div>

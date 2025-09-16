@@ -58,7 +58,7 @@ if ($_SESSION['id'] == 'admin') {
     {
         $voteChart = array();
         $count = 0;
-        $vote = "SELECT * FROM candidates WHERE status='Accepted' AND post='$position'";
+        $vote = "SELECT * FROM candidates WHERE status='Accepted' AND post='$position' ORDER BY voteCount DESC";
         $result = mysqli_query($conn, $vote);
 
         while ($row = mysqli_fetch_assoc($result)) {
@@ -67,24 +67,42 @@ if ($_SESSION['id'] == 'admin') {
             $count++;
         }
         
-        // Always display chart container
+        // Display chart container with actual data
         ?>
 
         <div class="chart-container">
-            <div class="text-center text-muted py-4">
-                <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                <h5>Vote Results for <?= $position ?></h5>
-                <p>Vote data will be displayed here once the election starts and users begin voting.</p>
-            </div>
+            <h5 class="text-center mb-3">Vote Results for <?= $position ?></h5>
+            <?php if ($count > 0): ?>
+                <div class="candidates-list">
+                    <?php foreach ($voteChart as $candidate): ?>
+                        <div class="candidate-item">
+                            <div class="candidate-info">
+                                <span class="candidate-name"><?= $candidate['label'] ?></span>
+                                <span class="vote-count"><?= $candidate['y'] ?> votes</span>
+                            </div>
+                            <div class="progress" style="height: 8px;">
+                                <?php 
+                                $maxVotes = max(array_column($voteChart, 'y'));
+                                $percentage = $maxVotes > 0 ? ($candidate['y'] / $maxVotes) * 100 : 0;
+                                ?>
+                                <div class="progress-bar bg-primary" role="progressbar" 
+                                     style="width: <?= $percentage ?>%" 
+                                     aria-valuenow="<?= $candidate['y'] ?>" 
+                                     aria-valuemin="0" aria-valuemax="<?= $maxVotes ?>">
+                                </div>
+                            </div>
+                        </div>
+                    <?php endforeach; ?>
+                </div>
+            <?php else: ?>
+                <div class="text-center text-muted py-4">
+                    <i class="fas fa-chart-bar fa-3x mb-3"></i>
+                    <p>No candidates found for <?= $position ?></p>
+                </div>
+            <?php endif; ?>
         </div>
 
         <?php
-        // Show additional message when no votes yet
-        if ($count == 0) {
-            echo "<div class='text-center text-muted mt-2'>
-                    <small><i class='fas fa-info-circle me-1'></i>No votes cast yet for $position</small>
-                  </div>";
-        }
     }
 
     $query = "SELECT voteStatus FROM `login` WHERE id='admin'";
@@ -653,7 +671,39 @@ if ($_SESSION['id'] == 'admin') {
     padding: 20px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     position: relative;
-    height: 400px;
+    min-height: 200px;
+}
+
+.candidates-list {
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.candidate-item {
+    margin-bottom: 15px;
+    padding: 10px;
+    background: #f8f9fa;
+    border-radius: 6px;
+    border-left: 4px solid #667eea;
+}
+
+.candidate-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.candidate-name {
+    font-weight: 600;
+    color: #333;
+    font-size: 0.95rem;
+}
+
+.vote-count {
+    font-weight: 600;
+    color: #667eea;
+    font-size: 0.9rem;
 }
 
 .chart-container canvas {
