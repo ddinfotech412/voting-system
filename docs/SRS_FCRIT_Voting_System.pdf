@@ -1,0 +1,211 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2000
+>>
+stream
+BT
+/F1 12 Tf
+50 750 Td
+(SOFTWARE REQUIREMENTS SPECIFICATION) Tj
+0 -20 Td
+(FCRIT Voting System) Tj
+0 -30 Td
+(Version 1.0) Tj
+0 -50 Td
+(Table of Contents) Tj
+0 -20 Td
+(1. Introduction) Tj
+0 -15 Td
+(2. System Overview) Tj
+0 -15 Td
+(3. Functional Requirements) Tj
+0 -15 Td
+(4. Non-Functional Requirements) Tj
+0 -15 Td
+(5. System Architecture) Tj
+0 -15 Td
+(6. Database Design) Tj
+0 -15 Td
+(7. Security Requirements) Tj
+0 -15 Td
+(8. User Interface Requirements) Tj
+0 -15 Td
+(9. Testing Requirements) Tj
+0 -15 Td
+(10. Deployment Requirements) Tj
+0 -50 Td
+(1. INTRODUCTION) Tj
+0 -20 Td
+(1.1 Purpose) Tj
+0 -15 Td
+(This document specifies the requirements for the FCRIT Voting System,) Tj
+0 -15 Td
+(a web-based application designed for conducting secure and transparent) Tj
+0 -15 Td
+(student council elections at FCRIT.) Tj
+0 -30 Td
+(1.2 Scope) Tj
+0 -15 Td
+(The system provides functionality for user registration, candidate) Tj
+0 -15 Td
+(application management, secure voting, and comprehensive analytics.) Tj
+0 -30 Td
+(2. SYSTEM OVERVIEW) Tj
+0 -20 Td
+(2.1 System Objectives) Tj
+0 -15 Td
+(- Provide a secure and transparent voting platform) Tj
+0 -15 Td
+(- Enable efficient candidate registration and management) Tj
+0 -15 Td
+(- Ensure voter privacy and vote integrity) Tj
+0 -15 Td
+(- Provide real-time analytics and reporting) Tj
+0 -30 Td
+(3. FUNCTIONAL REQUIREMENTS) Tj
+0 -20 Td
+(3.1 User Management) Tj
+0 -15 Td
+(- User registration and authentication) Tj
+0 -15 Td
+(- Role-based access control (Admin, User)) Tj
+0 -15 Td
+(- Password management) Tj
+0 -30 Td
+(3.2 Voting System) Tj
+0 -15 Td
+(- Secure vote casting) Tj
+0 -15 Td
+(- Vote anonymity protection) Tj
+0 -15 Td
+(- One vote per user per election) Tj
+0 -30 Td
+(4. NON-FUNCTIONAL REQUIREMENTS) Tj
+0 -20 Td
+(4.1 Performance) Tj
+0 -15 Td
+(- Response time < 3 seconds) Tj
+0 -15 Td
+(- Support for 1000+ concurrent users) Tj
+0 -30 Td
+(4.2 Security) Tj
+0 -15 Td
+(- Data encryption) Tj
+0 -15 Td
+(- SQL injection prevention) Tj
+0 -15 Td
+(- Session management) Tj
+0 -30 Td
+(5. DATABASE DESIGN) Tj
+0 -20 Td
+(5.1 Core Tables) Tj
+0 -15 Td
+(- login: User authentication) Tj
+0 -15 Td
+(- candidates: Candidate information) Tj
+0 -15 Td
+(- votes: Vote records) Tj
+0 -15 Td
+(- campaign: Campaign materials) Tj
+0 -15 Td
+(- analytics: Election statistics) Tj
+0 -30 Td
+(6. TECHNICAL SPECIFICATIONS) Tj
+0 -20 Td
+(6.1 Backend: PHP 7.4+, MySQL 8.0+) Tj
+0 -15 Td
+(6.2 Frontend: HTML5, CSS3, JavaScript, Bootstrap 5) Tj
+0 -15 Td
+(6.3 Database: MySQL with MySQLi extension) Tj
+0 -30 Td
+(7. SECURITY REQUIREMENTS) Tj
+0 -20 Td
+(7.1 Authentication: Session-based) Tj
+0 -15 Td
+(7.2 Authorization: Role-based access) Tj
+0 -15 Td
+(7.3 Data Protection: Input validation, SQL injection prevention) Tj
+0 -30 Td
+(8. TESTING REQUIREMENTS) Tj
+0 -20 Td
+(8.1 Unit Testing: Individual component testing) Tj
+0 -15 Td
+(8.2 Integration Testing: System integration testing) Tj
+0 -15 Td
+(8.3 User Acceptance Testing: End-user testing) Tj
+0 -30 Td
+(9. DEPLOYMENT REQUIREMENTS) Tj
+0 -20 Td
+(9.1 Server: Apache/Nginx with PHP support) Tj
+0 -15 Td
+(9.2 Database: MySQL 8.0+ or MariaDB 10.3+) Tj
+0 -15 Td
+(9.3 Browser: Modern browsers (Chrome, Firefox, Safari, Edge)) Tj
+0 -30 Td
+(10. MAINTENANCE AND SUPPORT) Tj
+0 -20 Td
+(10.1 Error Logging: Comprehensive error tracking) Tj
+0 -15 Td
+(10.2 Updates: Regular security and feature updates) Tj
+0 -15 Td
+(10.3 Support: Technical support during business hours) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000002340 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+2400
+%%EOF
+
+

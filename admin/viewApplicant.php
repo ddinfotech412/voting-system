@@ -1,4 +1,5 @@
 <?php
+session_start();
 include_once '../common/connect.php';
 include_once '../common/errorLogger.php';
 
@@ -108,7 +109,7 @@ if (isset($_POST['updateStatus'])) {
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-3 text-center">
-                    <img src="../<?= $applicant['pfp'] ?>" alt="Applicant Photo" class="applicant-photo">
+                    <img src="<?= htmlspecialchars($applicant['pfp']) ?>" alt="Applicant Photo" class="applicant-photo" onerror="this.src='../assets/logo.png'">
                 </div>
                 <div class="col-md-9">
                     <h1 class="mb-2"><?= htmlspecialchars($applicant['name']) ?></h1>
@@ -210,7 +211,7 @@ if (isset($_POST['updateStatus'])) {
                         </h5>
                     </div>
                     <div class="card-body text-center">
-                        <img src="../<?= $applicant['cert'] ?>" alt="Certificate" class="img-fluid" style="max-height: 400px;">
+                        <img src="<?= htmlspecialchars($applicant['cert']) ?>" alt="Certificate" class="img-fluid" style="max-height: 400px;" onerror="this.src='../assets/default-campaign.jpg'">
                     </div>
                 </div>
             </div>

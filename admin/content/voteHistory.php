@@ -74,13 +74,13 @@
             </div>
             <div class="card-body">
                 <?php
-                $position_query = "SELECT post, COUNT(*) as vote_count FROM votes GROUP BY post";
+                $position_query = "SELECT position, COUNT(*) as vote_count FROM votes GROUP BY position";
                 $position_result = mysqli_query($conn, $position_query);
                 
                 if (mysqli_num_rows($position_result) > 0) {
                     while ($position = mysqli_fetch_assoc($position_result)) {
                         echo "<div class='position-stat'>
-                                <span class='position-name'>{$position['post']}</span>
+                                <span class='position-name'>{$position['position']}</span>
                                 <span class='position-count'>{$position['vote_count']} votes</span>
                               </div>";
                     }

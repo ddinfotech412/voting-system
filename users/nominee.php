@@ -91,7 +91,18 @@ if (isset($_SESSION['id'])) {
                                                 ?>
                                                     <div class="<?=$campaign['size']?> position-relative" style="object-fit: cover;">
                                                         <p class="position-absolute text-center fs-2"><?=$campaign['motto']?></p>
-                                                        <img src="<?=htmlspecialchars($campaign['campaign'])?>" alt="<?=htmlspecialchars($campaign['campaign'])?>" class="img-fluid" style="object-fit: cover;">
+                                                        <?php
+                                                        $campaignImage = $campaign['campaign'];
+                                                        $imagePath = '../' . $campaignImage;
+                                                        
+                                                        // Check if the campaign image exists, otherwise use default
+                                                        if (file_exists($imagePath) && !empty($campaignImage)) {
+                                                            $displayImage = $campaignImage;
+                                                        } else {
+                                                            $displayImage = '../assets/default-campaign.jpg';
+                                                        }
+                                                        ?>
+                                                        <img src="<?=htmlspecialchars($displayImage)?>" alt="<?=htmlspecialchars($campaign['motto'])?>" class="img-fluid" style="object-fit: cover; min-height: 200px;" onerror="this.src='../assets/default-campaign.jpg'">
                                                     </div>
                                                 <?php
                                                     } else {

@@ -57,7 +57,7 @@ include 'common/navbar.php';
             transition: color 0.3s ease;
         }
         .nav-link:hover {
-            color: #667eea !important;
+            color: #ff6b6b !important;
         }
     </style>
 </head>
@@ -84,6 +84,9 @@ include 'common/navbar.php';
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="help.php">Help</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="documentation.php">Documentation</a>
                     </li>
                     <?php if (isset($_SESSION['id'])): ?>
                         <?php if ($_SESSION['id'] == 'admin'): ?>

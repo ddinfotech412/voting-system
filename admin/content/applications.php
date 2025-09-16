@@ -1,3 +1,37 @@
+<?php
+// Handle accept/reject actions
+if (isset($_GET['action']) && isset($_GET['name'])) {
+    $action = $_GET['action'];
+    $name = $_GET['name'];
+    
+    if ($action == 'accept') {
+        $updateQuery = "UPDATE candidates SET status = 'Accepted' WHERE name = ?";
+        $stmt = mysqli_prepare($conn, $updateQuery);
+        mysqli_stmt_bind_param($stmt, 's', $name);
+        
+        if (mysqli_stmt_execute($stmt)) {
+            $_SESSION['successMessage'] = "Application accepted successfully.";
+        } else {
+            $_SESSION['errorMessage'] = "Failed to accept application.";
+        }
+    } elseif ($action == 'reject') {
+        $updateQuery = "UPDATE candidates SET status = 'Rejected' WHERE name = ?";
+        $stmt = mysqli_prepare($conn, $updateQuery);
+        mysqli_stmt_bind_param($stmt, 's', $name);
+        
+        if (mysqli_stmt_execute($stmt)) {
+            $_SESSION['successMessage'] = "Application rejected successfully.";
+        } else {
+            $_SESSION['errorMessage'] = "Failed to reject application.";
+        }
+    }
+    
+    // Redirect to prevent resubmission
+    header("Location: admin.php?page=applications");
+    exit();
+}
+?>
+
 <div class="applications-content">
     <div class="applications-header">
         <h1 class="section-title">Nominee Applications</h1>
@@ -62,9 +96,19 @@
                                     </span>
                                 </td>
                                 <td>
-                                    <a href="./viewApplicant.php?name=<?=$application['name']?>" class="btn btn-primary btn-sm">
-                                        <i class="far fa-eye me-1"></i>View
-                                    </a>
+                                    <div class="btn-group" role="group">
+                                        <a href="./viewApplicant.php?name=<?=$application['name']?>" class="btn btn-primary btn-sm">
+                                            <i class="far fa-eye me-1"></i>View
+                                        </a>
+                                        <?php if($application['status'] == 'Pending'): ?>
+                                        <a href="?action=accept&name=<?=$application['name']?>" class="btn btn-success btn-sm" onclick="return confirm('Are you sure you want to accept this application?')">
+                                            <i class="fas fa-check me-1"></i>Accept
+                                        </a>
+                                        <a href="?action=reject&name=<?=$application['name']?>" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to reject this application?')">
+                                            <i class="fas fa-times me-1"></i>Reject
+                                        </a>
+                                        <?php endif; ?>
+                                    </div>
                                 </td>
                             </tr>
                             <?php

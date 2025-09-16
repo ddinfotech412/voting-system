@@ -5,8 +5,9 @@ session_start();
 
 require '../common/links.php';
 
-if(isset($_SESSION['id']))
-{
+// Allow public access to view nominee details
+// if(isset($_SESSION['id']))
+// {
 ?>
 
 
@@ -113,9 +114,9 @@ if(isset($_SESSION['id']))
 
 
 <?php
-}
-else{
-    header("Location:../login.php");
-    exit();
-}
+// }
+// else{
+//     header("Location:../login.php");
+//     exit();
+// }
 ?>
