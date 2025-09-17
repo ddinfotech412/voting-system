@@ -62,7 +62,7 @@ CREATE TABLE `login` (
   `sr` int(5) NOT NULL,
   `id` varchar(8) NOT NULL,
   `uname` varchar(255) NOT NULL,
-  `pw` varchar(8) NOT NULL,
+  `pw` varchar(255) NOT NULL,
   `voteStatus` int(1) NOT NULL DEFAULT 0
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
@@ -73,24 +73,24 @@ CREATE TABLE `login` (
 --
 
 INSERT INTO `login` (`sr`, `id`, `uname`, `pw`, `voteStatus`) VALUES
-(1, 'admin', 'Administrator', 'admin', 0),
-(2, 'user001', 'John Smith', 'pass123', 0),
-(3, 'user002', 'Sarah Johnson', 'pass456', 0),
-(4, 'user003', 'Michael Brown', 'pass789', 0),
-(5, 'user004', 'Emily Davis', 'pass101', 0),
-(6, 'user005', 'David Wilson', 'pass202', 0),
-(7, 'user006', 'Lisa Anderson', 'pass303', 0),
-(8, 'user007', 'Robert Taylor', 'pass404', 0),
-(9, 'user008', 'Jennifer Martinez', 'pass505', 0),
-(10, 'user009', 'Christopher Lee', 'pass606', 0),
-(11, 'user010', 'Amanda Garcia', 'pass707', 0),
-(12, 'user011', 'Daniel Rodriguez', 'pass808', 0),
-(13, 'user012', 'Jessica White', 'pass909', 0),
-(14, 'user013', 'Matthew Harris', 'pass010', 0),
-(15, 'user014', 'Ashley Clark', 'pass111', 0),
-(16, 'user015', 'Andrew Lewis', 'pass222', 0),
-(17, 'user016', 'Samantha Walker', 'pass333', 0),
-(18, 'user017', 'James Hall', 'pass444', 0);
+(1, 'admin', 'Administrator', '$2y$10$BbRf7SdYsLeEsuMq0epRIeTWbMGBANMhlKxMXM5LQSQLD7GbHe2cW', 0),
+(2, 'user001', 'John Smith', '$2y$10$SqGYH8d7sGimLtQ6ca8eIeuOBLer.1EtzRwGDY8mGEwfh8YoP66si', 0),
+(3, 'user002', 'Sarah Johnson', '$2y$10$UG/kNcWomcHF6XA2eCydMuH4/WPZC.W.5mXgAETkpTs3oCM8IpiLu', 0),
+(4, 'user003', 'Michael Brown', '$2y$10$li5uiFID0t5f87vI.q3u8uEp38M47Vo4SpHJaA5EJB0H9EtIEVCD2', 0),
+(5, 'user004', 'Emily Davis', '$2y$10$jeL6z3FLmFYW.WaDO.XPOejrtTb4B/JZ79kfjRf9BJW7PCY7591OK', 0),
+(6, 'user005', 'David Wilson', '$2y$10$vSiGTb8lmKF6r0kKb2p7yeM2oSHKo5EC1xgHR.gsymNcLyqp6GyqC', 0),
+(7, 'user006', 'Lisa Anderson', '$2y$10$z8yyGjjQ1Y7fpIB1CRP/yOIbu9bwg0wutPMdVB6FSU9jmjx2Vw5yy', 0),
+(8, 'user007', 'Robert Taylor', '$2y$10$Vj36/tmukcEcBpEA4XGJh.8AtXvT3Mdd5AQ0YUeL6cozwm/xXrZ76', 0),
+(9, 'user008', 'Jennifer Martinez', '$2y$10$5V.JfLM1fR1geO.yDZay5.zgW0XTRLHuopaoMArX25M4h7ESl82H2', 0),
+(10, 'user009', 'Christopher Lee', '$2y$10$IG7g.Zv9qTt6dxLUEzkFbuHqw7MYIcLD3YXlxn8C5gzHNpv7mvcUO', 0),
+(11, 'user010', 'Amanda Garcia', '$2y$10$fDMCeLuKqjJUtrcgpbCg6OL0Oxzarfj7QMWK/ms9A..YkjsfpafIq', 0),
+(12, 'user011', 'Daniel Rodriguez', '$2y$10$QE648RnX1Wa9ZkdpQ0cPfebu0joa4EbNAyY9CsDLP8Ai1x37lyX2q', 0),
+(13, 'user012', 'Jessica White', '$2y$10$PrDGpogkvywOKWzV9ylWken./GJTUeSdmBLWCIQA2.dISxt2NOxje', 0),
+(14, 'user013', 'Matthew Harris', '$2y$10$mA7vimhewQHIEcNU3BJpXO9R//MbSeoa5aw8W0YYPyGOsg8RXbWCu', 0),
+(15, 'user014', 'Ashley Clark', '$2y$10$.nkL5rSM6A00m42pO2KHye8.4jO9.KtYt81I/YpeYZ0kTGArVm/Ne', 0),
+(16, 'user015', 'Andrew Lewis', '$2y$10$DIJ1zEhCJeuGdaPGGkLnEudFB.SOVBoenznU4QvlO4UPWN36sIR72', 0),
+(17, 'user016', 'Samantha Walker', '$2y$10$XVrI.wUj4fAuTCcPWCXlB.y/fMNi7Gdj9L6WOsLOqoxi4GiaddTnK', 0),
+(18, 'user017', 'James Hall', '$2y$10$wxbQi2YlAPSO13CjGMxaoO.nF8AFvHGZC2HI3oG49qqUtxp0.kze2', 0);
 
 -- --------------------------------------------------------
 

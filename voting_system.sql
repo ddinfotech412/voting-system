@@ -66,7 +66,7 @@ CREATE TABLE `login` (
   `sr` int(5) NOT NULL,
   `id` varchar(8) NOT NULL,
   `uname` varchar(255) NOT NULL,
-  `pw` varchar(8) NOT NULL,
+  `pw` varchar(255) NOT NULL,
   `voteStatus` int(1) NOT NULL DEFAULT 0
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
